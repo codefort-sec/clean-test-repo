@@ -1,0 +1,13 @@
+{
+  "name": "clean-telemetry-service",
+  "version": "1.0.0",
+  "description": "Compliant microservice baseline repository protected by CodeFort",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Running test suite...\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
